@@ -70,7 +70,6 @@ supervision of [Mr. Annajiat Alim Rasel](https://cse.sds.bracu.ac.bd/faculty_pro
 
 * [ATHAR NOOR MOHAMMAD RAFEE (*S_ID: 24366014*)](mailto:inmoresentum@inmoresentum.net) \[**owner**\]
 * [MD. AQIB JAWWAD (*S_ID: 24366035*)](mailto:md.aqib.jawwad@g.bracu.ac.bd) \[**member**\]
-* [MD. ABU OBAIDA ZISHAN (*S_ID: 24366014*)](mailto:md.abu.obaida.zishan@g.bracu.ac.bd) \[**member**\]
 
 
 &#160;
