@@ -63,7 +63,7 @@
 </h4>
 
 This [GitHub Organization](https://github.com/TinyCompositeHAR) contains the codebase
-that [I](https://github.com/Inmoresentum)/[my](#team-information) team developed for CSE713 semester final (*Fall2024*) project under the
+that [I](https://github.com/Inmoresentum)/[my](#team-information) team (_team **27**_) developed for CSE713 semester final (*Fall2024*) project under the
 supervision of [Mr. Annajiat Alim Rasel](https://cse.sds.bracu.ac.bd/faculty_profile/145/mr_annajiat_alim_rasel).
 
 ### Team Information
